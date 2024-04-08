@@ -1,3 +1,4 @@
-Working with the CS50's library:
-#include <cs50.h>
+Working with the Visual Studio Code for CS50:  https://cs50.dev/
+
+CS50's library:  #include <cs50.h>
 CS50's library Website:   https://manual.cs50.io/

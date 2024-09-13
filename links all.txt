@@ -2,3 +2,5 @@ Working with the Visual Studio Code for CS50:  https://cs50.dev/
 
 CS50's library:  #include <cs50.h>
 CS50's library Website:   https://manual.cs50.io/
+
+working with code scratch: https://scratch.mit.edu/

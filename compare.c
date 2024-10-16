@@ -1,5 +1,7 @@
-#include <cs50.h>
+// #include <cs50.h>
 #include <stdio.h>
+#include "cs50.h"
+#include "cs50.c"
 int main(void){
     int x = get_int("What's x? ");
     int y = get_int("What's y? ");

@@ -1,6 +1,7 @@
-#include <cs50.h>
+// #include <cs50.h>  // this line is for online codespace
 #include <stdio.h>
-
+#include "cs50.h"
+#include "cs50.c"
 // void meaw (void){
 //     printf("meaw\n");
 // }

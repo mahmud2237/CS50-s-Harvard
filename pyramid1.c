@@ -5,9 +5,10 @@
 ###
 ####
 */
-#include <cs50.h>
+// #include <cs50.h>
 #include <stdio.h>
-
+#include "cs50.h"
+#include "cs50.c"
 void print_row(int length);
 
 int main(void){

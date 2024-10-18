@@ -1,10 +1,12 @@
 This course is from Harvard CS50's Introduction to Computer Science. 
 
-To run C code in the codespace:
-=> make filename (without ext .c)
-=> ./filename
+Working with the virtual Visual Studio Code(codespace) for CS50:  https://cs50.dev/
 
-To run the C code in the VS Code:
-=> First check the directory by cd comand
-=> then, gcc progname.c -o progname
-=> ./progname
+CS50's library:  #include <cs50.h> // this line is for online codespace
+For Vs code we need 2 cs50 files and include those like: 
+                                                        #include "cs50.h"
+                                                        #include "cs50.c"
+                                                        
+CS50's library Website:   https://manual.cs50.io/
+
+working with code scratch: https://scratch.mit.edu/

@@ -3,8 +3,7 @@
 #include "cs50.h"
 #include "cs50.c"
 int main(void){
-    char c = get_char("Do you agree? ");
-
+    char c = get_char("Do You Agree? ");
     if (c == 'y' || c == 'Y'){
         printf("Agreed.\n");
     }
@@ -12,6 +11,6 @@ int main(void){
         printf("Not Agreed.\n");
     }
     else{
-        printf("Please enter Yes for Y, y or No for N, n");
+        printf("Please enter Y, y for Agreed or N, n for Not Agreed");
     }
 }

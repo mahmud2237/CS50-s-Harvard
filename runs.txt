@@ -1,4 +1,4 @@
-To run C code in the codespace:
+To run C code in the online VS codespace:
 => make filename (without ext .c)
 => ./filename
 
